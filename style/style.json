@@ -1,0 +1,26 @@
+{
+ "marque": "SHAÏAH",
+ "format": { "ratio": "9:16", "largeur": 1080, "hauteur": 1920, "fps": 30, "duree_cible": [15, 30] },
+ "couleurs": {
+  "chocolat": "#2C0F0A",
+  "terracotta": "#8B3020",
+  "rose": "#DDB8A8",
+  "blancRose": "#F5E8E0",
+  "sable": "#E8DCC8"
+ },
+ "polices": { "titres": "Playfair Display 700 italique", "sous_titres": "Montserrat 800 majuscules" },
+ "ton": "énergique / fun",
+ "sous_titres": { "y": 65, "fontSize": 90, "maxWords": 3 },
+ "coupes": {
+  "silence_max": 0.3,
+  "marge_avant": 0.08,
+  "marge_apres": 0.15,
+  "hesitations_regex": "(euh+|heu+|hum+|hmm+|mmh+|bah|ben|bref)"
+ },
+ "montage": { "jump_cut_scale": 1.08 },
+ "musique": { "volume": 0.25 },
+ "transcription": { "modele": "small" },
+ "vocabulaire": {
+  "SHAÏAH": ["shaïah", "shaiah", "shaïa", "shaia", "shaya", "chaïa", "chaya", "chaïah", "chaiah"]
+ }
+}
